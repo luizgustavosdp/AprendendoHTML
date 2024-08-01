@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+</head>
+
+<!--Criar uma lista de catalogo. Deve ter Nome, data de lançamento e um select/lista com opções para o usuario escolher a plataforma que será cadastrada-->
+<body>
+    <form action="">
+    <label for="name">Nome:</label>
+    <input name="nome" id="nome">
+    <br>
+
+    <!--O patten indica padão de resposta esperado. Nesse caso ele esta esperando caracteres de 0 a 9, 2 digitos e um \. (Formato CPF)-->
+    <label for="Lançamento">Lançamento</label>
+    <input name="Lançamento" id="Lançamento" pattern="[0-9]{2}\[0-9]{2}\[0-9]{2}\">
+
+    <br>
+    <label for="plataforma">Plataforma:</label>
+      <select id="plataforma" name="plataforma">
+        <option value="PS3">PS3</option>
+        <option value="Xbox 360">Xbox 360</option>
+        <option value="PC">PC</option>
+
+      </select>
+    <br>
+    <button type="submit">Enviar</button>
+
+
+
+    </form>
+
+
+
+</body>
+</html>
