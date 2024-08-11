@@ -1,1 +1,1 @@
-Aqui deixei salvo alguns comandos do meu curso de HTML e CSS. Quando surgir alguma duvida sobre alguma sintaxe de tag é aqui que eu encontro.
+Salvei aqui alguns aprendizados, como tags, anotações e documentos importamtes sobre HTML 5. Este é uma etapa do curso de Programação Web que estou em progresso. Nele ainda irei aprender sobre CSS, Banco de Dados, JavaScript e como desemvolver de fato um projeto. De acordo com o progesso vou criando e postando novos repostorios da minha evolução.
